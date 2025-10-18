@@ -7,3 +7,4 @@ df = pd.DataFrame(array_2d)
 print(df.head())
 #afficher les infos du dataframe
 print(df.info())
+print(df.describe())
