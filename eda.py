@@ -7,12 +7,7 @@ df = pd.DataFrame(array_2d)
 print(df.head())
 #afficher les infos du dataframe
 print(df.info())
-<<<<<<< HEAD
 
 
 #afficher le taille du dataframe
 print(df.shape)
-=======
-#afficher les statistiques descriptives du dataframe
-print(df.describe())
->>>>>>> experiment-eda
