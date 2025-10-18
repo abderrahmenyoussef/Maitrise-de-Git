@@ -8,6 +8,3 @@ print(df.head())
 #afficher les infos du dataframe
 print(df.info())
 
-
-#afficher le taille du dataframe
-print(df.shape)
