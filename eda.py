@@ -8,3 +8,7 @@ print(df.head())
 #afficher les infos du dataframe
 print(df.info())
 print(df.describe())
+import matplotlib.pyplot as plt
+#creer un histogramme des valeurs de la premiere colonne
+plt.hist(df[0], bins=10)
+plt.show()
