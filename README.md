@@ -37,7 +37,7 @@ ssh -T git@github.com
 git config --global --list
 ```
 
-![Configuration Git](captures/2.png)
+
 
 **5. Comment modifier votre adresse e-mail si vous l'avez mal configurée lors de l'installation de Git ?**
 
